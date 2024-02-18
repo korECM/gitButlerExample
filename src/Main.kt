@@ -1,4 +1,4 @@
 fun main() {
-    val person = Person.create()
+    val person = Person.born()
     println(person.name)
 }
