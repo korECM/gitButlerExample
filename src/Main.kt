@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello, World!")
+    val person = Person.create()
+    println(person.name)
 }
